@@ -1,0 +1,51 @@
+# Flutter-specific
+.flutter-plugins
+.flutter-plugins-dependencies
+.dart_tool/
+.build/
+.idea/
+.packages
+pubspec.lock
+*.iml
+*.log
+*.swp
+# iOS
+ios/Flutter/Flutter.framework/
+ios/Flutter/Flutter.podspec
+ios/Pods/
+ios/.symlinks/
+# Android
+android/.gradle/
+android/app/build/
+android/build/
+*.apk
+*.aab
+*.dex
+*.class
+*.so
+*.jar
+*.gradle
+
+# Node.js-specific
+node_modules/
+npm-debug.log
+yarn-error.log
+backend/.env
+*.env
+package-lock.json
+*.tgz
+*.bak
+
+# VSCode/JetBrains
+.vscode/
+.idea/
+
+# MacOS
+.DS_Store
+
+# Linux
+*~
+
+# Windows
+Thumbs.db
+ehthumbs.db
